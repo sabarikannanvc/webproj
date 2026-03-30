@@ -6,8 +6,8 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body style="background-color: red;">
-	<h1>Hello from java web app</h1>
+<body style="background-color: blue;">
+	<h1>Hello All</h1>
 	
 </body>
 </html>
